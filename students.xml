@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Trịnh Quốc Trung</name>
+        <address>Đà Nang</address>
+        <birthday>2000-01-03</birthday>
+    </student>
+</students>
